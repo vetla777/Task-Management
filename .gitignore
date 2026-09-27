@@ -1,0 +1,28 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+.vs/
+
+# Node / React
+node_modules/
+dist/
+.env
+
+# Python generated scripts (not part of app)
+generate_doc.py
+build_interview_pdf.py
+*.pyc
+__pycache__/
+
+# PDFs (optional — large files)
+# Uncomment below to exclude PDFs from repo:
+# *.pdf
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
